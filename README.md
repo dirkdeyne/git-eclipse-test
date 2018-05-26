@@ -1,2 +1,4 @@
 # git-eclipse-test
-temp git repo
+temporary Git Repository
+
+ import from GitHub.
