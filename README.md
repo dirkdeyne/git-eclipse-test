@@ -3,4 +3,4 @@ temporary Git Repository
 
  - [X] import from GitHub.
  - [X] fast forward merge.
- - [X] merge conflict solved.
+ - [ ] merge conflict solved.
